@@ -1,0 +1,7 @@
+Project/
+├── img/
+│   └── projectimages.png
+├── src/
+│   ├── style.css
+│   └── script.js
+└── index.html
